@@ -51,7 +51,7 @@
 #include "structmember.h"
 #include "methodobject.h"
 #include "compile.h"
-#include "eval.h"
+#include "ceval.h"
 
 class PythonQtClassInfo;
 class QObject;

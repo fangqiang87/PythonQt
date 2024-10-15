@@ -88,3 +88,9 @@ doxygen.log
 
 # Backup files
 *.bak
+
+# conda
+.conda/
+conda/environment.yml
+
+/build/release
